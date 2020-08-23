@@ -8,7 +8,7 @@
 As part of our work, we had to implement an application with which: We  stored local (on disk) data about the coronavirus pandemic. The data will be stored, processed and, through a web page that you will design and implement, can be queried using Apache-MySQL-PHP (or Python, etc.).
 
 --------------------------------------------------------------------
-
+#### Συγκεκριμένα:
 * Χρησιμοποιήσαμε τον apache server xampp
 * Η φόρμα είναι στη σελίδα html, η οποία είναι και η κύρια σελίδα
 * Τα δεδομενα από τη βάση τα εκτυπώνουμε με php και γίνονται τα κατάληλλα queries.
@@ -16,7 +16,8 @@ As part of our work, we had to implement an application with which: We  stored l
 * Έχουμε ένα αρχείο style.css για τη μορφή της html σελίδας
 * Για την εμφάνηση των αποτελεσμάτων χρησιμοποιήσαμε css και javascript από το bootstrap 
 	https://getbootstrap.com/docs/4.0/getting-started/introduction/
-	
+
+#### Specifically:
 * We used the apache server xampp
 * The form is on the html page, which is also the main page
 * We print the data from the database with php and the appropriate queries are made.
