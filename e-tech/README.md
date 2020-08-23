@@ -1,7 +1,5 @@
-## Εργασία στο μάθημα Τεχνολογίες Διαδικτύου
-
-#### Χουλιαράκη Παναγιώτα 
-#### Παραμύθα Αλεξάνδρα 
+## Εργασία στο μάθημα Τεχνολογίες Διαδικτύου 
+### University Assignment for Internet Technologies class
 
 Στα πλαίσια της εργασίας μας, είχαμε να υλοποιήσουμε μια εφαρμογή με την οποία: αποθηκεύσαμε τοπικά (στο δίσκο) δεδομένα σχετικά με την πανδημία του κορωνοϊού. Τα δεδομένα θα αποθηκευτούν, επεξεργαστούν και, μέσω ιστοσελίδας που θα σχεδιάσετε και υλοποιήσετε, θα μπορούν να επερωτηθούν με τη χρήση Apache-MySQL-PHP (ή Python, κλπ).
 
@@ -24,3 +22,6 @@ As part of our work, we had to implement an application with which: We  stored l
 * We used python to automate the code for the dropdown options with the countries, which output the html code with the countries from our database to a txt file. We then put these in the html code.
 * We have a style.css file for the html page format
 * To display the results we used css and javascript from bootstrap https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+#### Αυτή η εργασία έγινε από την Χουλιαράκη Παναγιώτα και την Παραμύθα Αλεξάνδρα 
+#### Contributors: Chouliaraki Panagiota, Paramytha Alexandra
