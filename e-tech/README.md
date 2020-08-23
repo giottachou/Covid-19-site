@@ -3,9 +3,9 @@
 ### Χουλιαράκη Παναγιώτα 
 ### Παραμύθα Αλεξάνδρα 
 
-Στα πλαίσια της εργασίας σας, θα υλοποιήσετε μια εφαρμογή με την οποία:
-Θα αποθηκεύσετε τοπικά (στο δίσκο) δεδομένα σχετικά με την πανδημία του κορωνοϊού.
-Τα δεδομένα θα αποθηκευτούν, επεξεργαστούν και, μέσω ιστοσελίδας που θα σχεδιάσετε και υλοποιήσετε, θα μπορούν να επερωτηθούν με τη χρήση Apache-MySQL-PHP (ή Python, κλπ).
+Στα πλαίσια της εργασίας μας, είχαμε να υλοποιήσουμε μια εφαρμογή με την οποία: αποθηκεύσαμε τοπικά (στο δίσκο) δεδομένα σχετικά με την πανδημία του κορωνοϊού. Τα δεδομένα θα αποθηκευτούν, επεξεργαστούν και, μέσω ιστοσελίδας που θα σχεδιάσετε και υλοποιήσετε, θα μπορούν να επερωτηθούν με τη χρήση Apache-MySQL-PHP (ή Python, κλπ).
+
+As part of our work, we had to implement an application with which: We  stored local (on disk) data about the coronavirus pandemic. The data will be stored, processed and, through a web page that you will design and implement, can be queried using Apache-MySQL-PHP (or Python, etc.).
 
 --------------------------------------------------------------------
 
@@ -16,3 +16,10 @@
 * Έχουμε ένα αρχείο style.css για τη μορφή της html σελίδας
 * Για την εμφάνηση των αποτελεσμάτων χρησιμοποιήσαμε css και javascript από το bootstrap 
 	https://getbootstrap.com/docs/4.0/getting-started/introduction/
+	
+* We used the apache server xampp
+* The form is on the html page, which is also the main page
+* We print the data from the database with php and the appropriate queries are made.
+* We used python to automate the code for the dropdown options with the countries, which output the html code with the countries from our database to a txt file. We then put these in the html code.
+* We have a style.css file for the html page format
+* To display the results we used css and javascript from bootstrap https://getbootstrap.com/docs/4.0/getting-started/introduction/
